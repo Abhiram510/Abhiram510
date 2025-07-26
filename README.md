@@ -6,10 +6,9 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Illino
 
 ## 👨‍💻 About Me
 
-- 🎓 Sophomore CS major @ UIUC | Minor in Finance
+- 🎓 CS major @ UIUC | Minor in Finance
 - ⚙️ Passionate about machine learning, automation, and full-stack development
 - 💡 Exploring the overlap of tech, business, and user-centered design
-- 🎯 Strong believer in clean architecture, iterative development, and meaningful product impact
 - 🧠 Honors: James Scholar, Dean’s List — GPA: 3.95
 
 ---
@@ -48,7 +47,7 @@ Designed and deployed a mobile app that connects home chefs with nearby users fo
 *Swift | AWS Amplify | GraphQL*  
 - Maintained a production iOS app using SwiftUI, Amplify CLI, and GraphQL APIs  
 - Resolved deployment bugs across AppSync and Cognito  
-- Co-led TestFlight releases and App Store Connect updates
+- Led TestFlight releases and App Store Connect updates
 
 ### 📊 Data Engineer Intern @ Gameplay Inc.  
 *Python | PostgreSQL | TensorFlow*  
@@ -78,8 +77,6 @@ Designed and deployed a mobile app that connects home chefs with nearby users fo
 - 🔗 [LinkedIn](https://linkedin.com/in/abhirambatchali)  
 - 💻 [GitHub](https://github.com/Abhiram510)  
 - 📧 Email: ab105@illinois.edu  
-- 🌐 Portfolio coming soon!
 
 ---
 
-*Thanks for stopping by — let’s build something impactful together!* 🚀
