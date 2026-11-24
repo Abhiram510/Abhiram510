@@ -1,91 +1,104 @@
-# Hey, I'm Abhiram! 👋
+Hey, I’m Abhiram! 👋
 
-Welcome to my GitHub! I'm a Computer Science student at the University of Illinois Urbana-Champaign, passionate about building intelligent, impactful solutions at the intersection of **software engineering**, **machine learning**, and **finance**. Whether it's engineering low-latency trading systems, shipping production mobile apps, or building ML pipelines — I enjoy transforming real-world problems into scalable code.
+I’m a Computer Science student at the University of Illinois Urbana-Champaign, pursuing a B.S. and M.C.S. in Computer Science alongside a minor in Finance.
 
----
+I’m a former Software Engineer Intern at Amazon Web Services (AWS Redshift), where I worked on distributed database testing infrastructure, concurrency, and developer tooling.
 
-## 👨‍💻 About Me
+I enjoy building scalable systems, solving challenging engineering problems, and developing software that makes a meaningful impact. My interests span distributed systems, backend infrastructure, machine learning, and full-stack development.
 
-- 🎓 CS major @ UIUC | Minor in Finance
-- ☁️ Incoming SWE Intern @ **AWS (Redshift)** — Summer 2026
-- ⚙️ Passionate about systems engineering, machine learning, and full-stack development
-- 💡 Exploring the overlap of tech, business, and user-centered design
-- 🧠 Honors: James Scholar, Dean's List (Fall 2024, Spring 2025, Fall 2025) — GPA: 3.95
+👨‍💻 About Me
 
----
+* 🎓 Education: B.S. & M.C.S. Computer Science @ UIUC | Minor in Finance
+* ☁️ Previously: Software Engineer Intern @ AWS Redshift
+* ⚙️ Interests: Distributed Systems, Backend Engineering, Cloud Infrastructure, and AI/ML
+* 🏆 Honors: James Scholar, Dean’s List | GPA: 3.9/4.0
+* 💡 Currently: Exploring systems engineering, distributed architectures, and scalable applications
 
-## 🧰 Tools & Technologies
+🧰 Tools & Technologies
 
-### 💬 Languages
-`Python` `Java` `C++` `JavaScript/TypeScript` `SQL` `Swift`
+Languages
 
-### 🧱 Frameworks & Libraries
-`React` `React Native` `Node.js` `Express` `Flask` `TensorFlow` `scikit-learn`
+Python · C++ · C · Java · JavaScript/TypeScript · SQL · Swift
 
-### ☁️ Cloud & Infrastructure
-`AWS (EC2, Amplify, SageMaker)` `Firebase (Auth, Firestore)` `PostgreSQL` `GraphQL` `Docker` `Kafka`
+Frameworks & Libraries
 
-### 🔧 Tools
-`Git` `Vercel` `Render`
+React · React Native · Node.js · Express · Flask · GraphQL · TensorFlow · scikit-learn
 
----
+Cloud & Infrastructure
 
-## 🚀 Featured Projects
+AWS · Docker · Kafka · PostgreSQL · Firebase · Linux · Jenkins
 
-### 📈 High-Performance Trading Engine
-**Tech Stack:** C++, Kafka, PostgreSQL, Docker
-- Engineered a low-latency trading system with an in-memory order book using price-time priority matching and efficient execution under high-throughput workloads
-- Architected an event-driven pipeline using Kafka to ingest and process concurrent buy/sell orders with low latency and reliable message ordering
-- Established asynchronous processing and persistent trade logging with PostgreSQL for recovery, auditability, and consistent system state
+Developer Tools
 
-### 🍱 Bayjo — Local Food Delivery Platform
-**Tech Stack:** React Native, Node.js, Firebase
-- Created a cross-platform mobile app connecting home chefs with students for on-demand food delivery
-- Designed backend services using Node.js and Firestore for authentication, order management, and real-time delivery tracking
-- Scaled data models and APIs to support concurrent users and secure transaction flows
+Git · GitHub · Vercel · Render
 
-### 🔗 QuadRadar — UIUC Event Recommender
-**Tech Stack:** React, Node.js, Flask, BERT
-- Built a full-stack event discovery platform aggregating UIUC event data with filtering, search, and authentication
-- Implemented a recommendation system using BERT embeddings and collaborative filtering for personalized suggestions
-- Integrated a Python ML service with a Node.js API for real-time semantic matching and user behavior analysis
+💼 Experience
 
----
+☁️ Software Engineer Intern | Amazon Web Services (AWS Redshift)
 
-## 💼 Experience
+May 2026 – August 2026 | East Palo Alto, CA
 
-### ☁️ Software Engineer Intern @ Amazon Web Services (Redshift)
-_May 2026 – Aug 2026 | Palo Alto, CA_
-- Incoming Summer 2026
+* Extended Redshift’s Super Simulated Mode framework from one to three concurrent burst clusters using C++, Python, and Docker, enabling eight previously unsupported tests and reducing iteration time by 75%.
+* Engineered a cross-process, file-backed FIFO queue with RAII-based file locking and atomic updates to coordinate forked backend processes and prevent duplicate burst assignments.
+* Investigated and resolved two infrastructure race conditions involving container allocation and startup synchronization, including issues affecting approximately 1,100 tests.
+* Improved debugging workflows by separating container logs by test class and building a Python-based Kiro skill using 22 heuristics to classify test failures and generate evidence-backed draft verdicts.
 
-### 💻 Software Engineer Intern @ Kinnect
-_Jun 2025 – Aug 2025 | Remote_
-- Directed development of a production iOS app, owning end-to-end feature delivery across auth, backend integration, and deployment pipelines
-- Developed backend services with AWS Amplify, Cognito, and GraphQL APIs for secure auth and real-time data sync
-- Coordinated Kinnect–Kinnectd platform integration, handling auth, backend migration, and data consistency
+📱 Software Engineer Intern | Kinnect
 
-### 📊 Data Engineer Intern @ Gameplay Inc.
-_Nov 2024 – Jun 2025 | Remote_
-- Optimized PostgreSQL ETL pipelines processing 10,000+ records, reducing data processing time by 35%
-- Developed TensorFlow models to classify field types, improving accuracy by 50%+ across multiple categories
-- Automated large-scale image labeling using Google Images API, eliminating manual annotation
+June 2025 – August 2025 | Remote
 
----
+* Led development and production releases of a Swift/SwiftUI iOS application serving over 100 live users.
+* Built cloud-backed application services using AWS Amplify, Cognito, and GraphQL for authentication, data synchronization, and backend integration.
+* Integrated the Kinnect and Kinnectd platforms by coordinating backend migrations, authentication workflows, and cross-application data consistency.
 
-## 🧠 Leadership
+📊 Data Engineer Intern | Gameplay Inc.
 
-### 💰 Treasury Committee @ ISSA
-- Oversaw financial planning and budgeting for student initiatives
-- Contributed to ISSA's first conference (Fall 2025)
+November 2024 – June 2025 | Remote
 
-### 🌐 Internal Ambassador @ Engineering Alumni
-- Organized networking events and promoted alumni mentorship
+* Optimized PostgreSQL ETL pipelines processing over 10,000 records, reducing processing time by 35%.
+* Developed TensorFlow classification models, improving field classification accuracy by over 50%.
+* Automated image labeling and dataset enrichment using the Google Images API to streamline machine learning data preparation.
 
----
+🚀 Featured Projects
 
-## 📫 Let's Connect
+📈 High-Performance Trading Engine
 
-- 🔗 [LinkedIn](https://linkedin.com/in/abhirambatchali)
-- 💻 [GitHub](https://github.com/Abhiram510)
-- 🌐 [Portfolio](https://abhiram510.github.io)
-- 📧 Email: abhirambatchali@gmail.com
+C++ · Kafka · PostgreSQL · Docker
+
+* Developed a low-latency C++ matching engine using an in-memory order book and price-time priority for deterministic trade execution.
+* Designed Kafka-based pipelines for asynchronous order processing and consistent event ordering.
+* Implemented PostgreSQL persistence with event replay and recovery mechanisms to support fault tolerance and auditing.
+
+🍱 Bayjo — Local Food Delivery Platform
+
+React Native · Node.js · Firebase
+
+* Cofounded a cross-platform marketplace connecting home chefs with students for on-demand food delivery.
+* Developed backend services for authentication, order management, and real-time delivery tracking.
+* Designed Firestore data models to coordinate concurrent order updates and maintain consistent application state.
+
+🔎 QuadRadar — Event Recommendation System
+
+React · Node.js · Flask · BERT
+
+* Built a full-stack event discovery platform aggregating UIUC event data with authentication, filtering, and semantic search.
+* Developed a BERT-based recommendation pipeline using semantic similarity to generate personalized event suggestions.
+* Integrated a Python/Flask ML inference service with a Node.js backend for real-time recommendations.
+
+🧠 Leadership
+
+Treasury Committee | Illinois Student Success Association (ISSA)
+
+* Supported financial planning and budgeting for student initiatives.
+* Contributed to organizing ISSA’s first conference.
+
+Internal Ambassador | Engineering Alumni Student Ambassadors
+
+* Helped organize networking events and strengthen connections between students and alumni.
+
+📫 Let’s Connect
+
+* 🌐 Portfolio: abhiram510.github.io
+* 💼 LinkedIn: linkedin.com/in/abhirambatchali
+* 💻 GitHub: github.com/Abhiram510
+* 📧 Email: abhirambatchali@gmail.com
